@@ -1,0 +1,73 @@
+Aspiring Machine Learning Engineer & Backend Developer
+New Delhi, India
+📞 +91 9142195484
+📧 rupeshsharma.ceo@rediffmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/n1rupesh/
+
+💻 GitHub: https://github.com/n1Rupesh
+
+SUMMARY
+
+Passionate AIML undergraduate with hands-on experience in backend development and strong foundations in Data Structures and Algorithms. Experienced in building REST APIs, integrating databases, and solving real-world problems through structured analytical thinking. Actively strengthening machine learning fundamentals while developing scalable backend systems.
+
+PROFESSIONAL EXPERIENCE
+SDE Intern (Backend Developer) – Sapphire (Remote)
+
+January 2025 – June 2025
+
+Worked as a Backend Development Intern contributing to the design and integration of scalable REST APIs for production-level applications. Collaborated with cross-functional teams to improve backend performance, maintainability, and system efficiency.
+
+Accomplishments:
+
+Designed and implemented RESTful API endpoints for multiple platform integrations
+Integrated MySQL databases for efficient data storage and retrieval
+Optimized backend modules improving system performance and response time
+Applied Object-Oriented Programming (OOP) principles
+Assisted in debugging, testing, and deployment
+Strengthened problem-solving through real-world challenges
+EDUCATION
+B.Tech – Artificial Intelligence & Machine Learning (2024–2028)
+Bennett University, India
+High School Diploma
+Northwest Accreditation Commission, USA
+TECHNICAL SKILLS
+Programming: C++, Java, Python
+Database: MySQL
+Backend: REST APIs, API Integration
+Tools: Git, GitHub, Postman, VS Code
+Operating System: Ubuntu (Linux)
+PROJECTS
+PharmaGuard – Pharmacogenomic Risk Prediction System
+Built AI-powered system analyzing genomic VCF files
+Predicted drug-specific risks with explainable recommendations
+Parsed VCF v4.2 files (up to 5MB)
+Identified variants in genes: CYP2D6, CYP2C19, CYP2C9, SLCO1B1, TPMT, DPYD
+Implemented ML + rule-based predictions (Safe, Toxic, etc.)
+Generated structured JSON outputs
+Integrated LLM explanations with biological reasoning
+Built web interface with visualization
+Implemented CPIC-aligned recommendations
+AVEC AGRO – IoT-Based Autonomous Drone System
+Built smart farming drone system in team
+Integrated GPS, telemetry, sensors
+Developed IoT data pipeline
+Created smart spraying logic
+Built dashboard for analytics & monitoring
+Designed 3D drone prototype (Blender)
+Worked on system integration & optimization
+3D Autonomous Drone Simulation Model
+Designed drone components (frame, rotors, sensors)
+Simulated propeller dynamics
+Created realistic 3D rendering
+Bridged hardware + IoT concepts using simulation
+STRENGTHS & EXPERTISE
+DSA & Problem Solving
+Backend Development (REST APIs)
+Database Design (MySQL)
+Object-Oriented Programming (OOP)
+Machine Learning Fundamentals
+System Design (Basic)
+Team Leadership
+Communication
+Operations Management
